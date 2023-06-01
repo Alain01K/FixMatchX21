@@ -1,6 +1,6 @@
 # FixMatchX21
 
-# Here is an Pytorch implementation of FixMatch for semi-supervised learning image classification.
+# Here is a Pytorch implementation of FixMatch for semi-supervised learning image classification.
 
 You need to upload the notebook on Google Colab and then follow our instruction.
 
